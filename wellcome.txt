@@ -1,2 +1,2 @@
-print('Wellcome")
-print("Wat's up")
+print('Wellcome;")
+print("Wat's up;")
