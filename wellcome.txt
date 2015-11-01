@@ -1,2 +1,5 @@
 print('Wellcome")
 print("Wat's up")
+
+
+print (' hello my dear friend ' )
