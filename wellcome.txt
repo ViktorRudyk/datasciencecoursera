@@ -4,3 +4,6 @@ print("Wat's up;")
 
 print (' hello my dear friend; ' )
 glad to see you!;
+
+Me too!;
+
