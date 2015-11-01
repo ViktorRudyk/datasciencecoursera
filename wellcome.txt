@@ -1,6 +1,6 @@
-print('Wellcome")
-print("Wat's up")
+print('Wellcome;")
+print("Wat's up;")
 
 
-print (' hello my dear friend ' )
-glad to see you!
+print (' hello my dear friend; ' )
+glad to see you!;
